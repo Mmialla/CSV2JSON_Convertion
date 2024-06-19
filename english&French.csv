@@ -1,0 +1,364 @@
+﻿Dashboard,Tableau de bord
+Patients,Patients
+Patient Registration,Inscription du patient
+Reports,Rapports
+Line list,Liste de lignes
+Notification Summary,Résumé des notifications
+Outcome Notification,Notification du résultat
+Referrals,Transfert
+Settings,Réglages
+Language Preference,Préférence linguistique
+Cache Cleaner,nettoyage du cash
+Back to list,Retour à la liste
+Delete case,Supprimer le cas
+Add Pre-treatment Examination(s),Ajouter des examens de prétraitement
+There is no data for Pre-treatment Examination(s),Il n’y a pas de données pour les examens préalables au traitement.
+There is no data for,Il n’y a pas de données pour
+Back,Arrière
+Registering unit,Unité d’enregistrement
+Start Date,Date de début
+End Date,Date de fin
+Last name ,Prénom
+Country TB Number ,Numéro TB du pays 
+TIMS ID number,Numéro d’identification TIMS
+DS TB Notification,Notification du DS TB 
+DR TB Notification,Notification du DR TB
+DS TB Outcome,Résultat du CT DS
+DR TB Notification,Notification du DR TB
+Patients List,Liste des patients
+Referral Summary,Résumé du transfert
+Referred Patients,Patients référés
+Clinical characteristics,Caractéristiques du clinique
+First Line DST,Première ligne du DST
+GeneXpert,GeneXpert
+Histopathology (Biopsy),Historique des pathologies
+Patient Clinical Characteristics,Caractéristiques cliniques du patient
+Radiological Investigation,l'investigationde la radiologique
+Second Line DST,Deuxième ligne du DST
+Smear Microscopy,Microscopie à frottis
+Substance(s) Use,Consommation de substances
+Transferring In,Transfert dans
+Transferring To,Transfert à
+Treatment classification,Classification des traitements
+Truenat,Truenat
+Urine LAM,Urine de LAM
+Tracked Entity Attribute,Attribut d'entité suivie
+Age (In years),Âge (en années)
+Allergies,Allergies
+Allergies Medication,Médicaments contre les allergies
+Alternative contact ID,Autre code de contact
+Alternative contact ID Type,Autre type d’Identifiant de contact
+Alternative contact first name,Autre prénom du contact
+Alternative contact last name,Autre nom de famille de la personne-ressource
+Alternative contact middle name,Autre deuxième prénom du contact
+Alternative contact nationality,Autre nationalité de contact
+Alternative contact phone number,Autre numéro de téléphone
+Alternative contact relationship,Autre relation de contact
+Alternative number,Numéro alternatif
+Asthma,Asthme
+Asthma Medication,Médicaments contre l’asthme
+Key population/At risk population,Population clé/population à risque
+COPD Medication,Médicament contre la MPOC
+Contact of the employer,Contact de l’employeur
+Contact phone number,Numéro de téléphone de la personne-ressource
+Country TB Number,Numéro TB du pays
+Country of origin,Pays d’origine
+Country of residential,Pays de résidence
+Country/facility referred to,Pays/établissement de transfert
+Current residential address,Adresse de la résidence actuelle
+Date of birth,Date de naissance
+Date of notification,Date de la notification
+Date of referral,Date du transfert
+Disease classification,Classification des maladies
+Drug history,Antécédents de médicaments
+Email address,Adresse mail
+Employee ID,Numéro d’employé
+Epilepsy,Épilepsie
+Epilepsy Medication,Médicaments contre l’épilepsie
+Ethnicity/tribe,Ethnicité/tribu
+First name,Nom
+Gender,Genre
+HIV Medication,Médicaments anti-VIH
+HIV Status,Statut du VIH
+Home address,Domicile
+Home language,Langue maternelle
+Hypertension,Hypertension
+Hypertension Medication,Médicaments contre l’hypertension
+ID Number,Numéro d’identification
+ID Type,Type de pièce d’identité
+Last name,Nom de famille
+Liver Disease,Maladie du foie
+Liver Disease Medication,Médicaments contre les maladies du foie
+Marital status,État civil
+Mental Illness,Maladie mentale
+Mental Illness Medication,Médicaments contre la maladie mentale
+Middle name,Deuxième prénom
+Mining formality,Formalité minière
+Mining's key population,Population clé de l’industrie minière
+Name of the employer,Nom de l’employeur
+Nationality,Nationalité
+Next of kin contact ID,Identifiant de contact du plus proche parent
+Next of kin contact ID Type,Numéro d’identification du plus proche parent
+Next of kin contact first name,Prénom du plus proche parent du contact
+Next of kin last name,Nom de famille du plus proche parent
+Next of kin middle name,Deuxième prénom du plus proche parent
+Next of kin nationality,Nationalité du plus proche parent
+Next of kin phone number,Numéro de téléphone du plus proche parent
+Next of kin relationship,Relation avec le plus proche parent
+Number of dependants,Nombre de personnes à charge
+Occupational History,Antécédents professionnels
+Other,Autre
+Patient Has Past Medical History?,Le patient a des antécédents médicaux?
+Patient height (in centimeters),Taille du patient (en centimètres)
+Patient photo,Photo du patient
+Patient signature,Signature du patient
+Patient weight (in kg),Poids du patient (en kg)
+Patient's Fingerprint,Empreinte digitale du patient
+Phone number,Numéro de téléphone
+Renal Insufficiency,Insuffisance rénale
+Renal Insufficiency Medication,Médicaments contre l’insuffisance rénale
+Same as next of kin?,Identique au plus proche parent ?
+Specify Medication,Précisez le médicament
+Specify other drug,Précisez autre médicament
+Specify year started medication,Précisez l’année du début du traitement
+Specify year,Précisez l’année
+TB Medication,Médicaments antituberculeux
+TIMS ID number,Numéro d’identification TIMS
+TIMS ID number[TEMP],Numéro d’identification TIMS [TEMP]
+Calculated age,Âge calculé
+Alcohol,Alcool
+Allergies,Allergies
+Allergies Medication,Médicaments contre les allergies
+Attach CT Scan result,Joindre le résultat du scanner CT
+Attach Chest X-Ray report,Joindre le rapport de radiographie pulmonaire
+CD4 cell count,Nombre de cellules CD4
+CPT Regimen,CPT Regimen
+CT scan result,Résultat du scanner CT
+CT scan date,Date du scanner CT
+Chest Pain,Douleur à la poitrine
+Chest X-Ray results,Résultats de la radiographie pulmonaire
+Country for Cross border referral,Pays pour le renvoi transfrontalier
+Culture,Culture
+Culture Result,Résultat de la culture
+DR TB Longer Regimen(s),Régime(s) plus long(s) pour la tuberculose DR
+DR TB Shorter Regimen,Régime plus court contre la tuberculose DR
+DR TB Treatment,Traitement de la tuberculose pharmacorésistante
+DS TB Regimen,Régime DS contre la tuberculose
+DST Isoniazid Result,Résultat DST isoniazide
+DST Result Amikacin,Résultat DST Amikacin
+DST Result Aminoglucosides/Injectables (AG/CP),DST Résultat Aminoglucosides/Injectables (AG/CP)
+DST Result Bedaquiline,DST Result Bedaquiline
+DST Result Capremomycin,Résultat DST Capremomycine
+DST Result Clofazimine,Résultat du DST Clofazimine
+DST Result Cycloserine,DST Résultat Cycloserine
+DST Result Delamanid,Résultat DST Délamanide
+DST Result Fluoroquinolones,Résultats DST Fluoroquinolones
+DST Result Isoniazid,DST Result Isoniazid
+DST Result Levofloxacin,Résultat DST Lévofloxacine
+DST Result Linezolid,Résultat DST Linézolide
+DST Result Moxiflocacin,DST Résultat Moxiflocacin
+DST Result Pyrazinamide,Résultat du DST Pyrazinamide
+DST Result Rifampicin,Résultat du DST Rifampicine
+DST Result-Ethambutol,Résultat de la DST-Ethambutol
+DST Result-Isoniazid,Résultat du DST - Isoniazid
+DST Result-Rifampicin,Résultat du DST - Rifampicine
+DST Rifampicin Result,Résultat de la rifampicine DST
+Date of Culture Test,Date du test de la culture
+Date of GeneXpert Test,Date du test GeneXpert
+Date of HIV Test,Date du test de dépistage du VIH
+Date of Line Probe Assay Test,Date du test de la sonde de ligne
+Date of Smear Test,Date du test de frottis
+Date of Truenat Test,Date du test Truenat
+Date of last Chest X-Ray,Date de la dernière radiographie pulmonaire
+Date of outcome,Date du résultat
+Diabetes,Diabète
+Diabetes Medication,Médicaments contre le diabète
+Diagnosis,Diagnostic
+District for Cross border referral (if known),District pour le renvoi transfrontalier (si connu)
+DoT option,option DoT
+Drug Sensitive Test(s),Tests sensibles aux drogues
+Dry Cough,Toux sèche
+Epilepsy,Épilepsie
+Epilepsy medication,Médicament contre l’épilepsie
+Attach Chest X-Ray result,Fixer le résultat de la radiographie pulmonaire
+Fever,Fièvre
+GeneXpert Result,Résultat GeneXpert
+HIV status,Séropositivité
+Joint Swelling,Gonflement articulaire
+Loss of Appetite,Perte d’appétit
+Night Sweat,Sueur nocturne
+On ART,Sur ART
+On CPT,Sur CPT
+On cotrimoxazole,Sur le cotrimoxazole
+Productive Cough,Toux productive
+Sensitivity to Rifampicin,Sensibilité à la rifampicine
+Smear microscopy result,Résultat de la microscopie à frottis
+Specify Other Physical Findings (if any),Préciser les autres constatations physiques (le cas échéant)
+Truenat Result,Résultat Truenat
+Truenat Rifampicin Test,Truenat Rifampicin Test
+Viral load done?,Charge virale terminée?
+Viral load result,Résultat de la charge virale
+Was CD4 Cell count done?,La numération des cellules CD4 a-t-elle été effectuée ?
+Was CT Scan performed?,L’acquisition CT a-t-elle été effectuée ?
+Was Chest X-Ray performed?,Une radiographie du thorax a-t-elle été effectuée?
+Was HIV test done?,Le test du VIH a-t-il été effectué?
+Weight Loss,Perte de poids
+Facility for Cross border referral (if known),Facilité de renvoi transfrontalier (si connue)
+Facility for in country referral,Facilité de renvoi dans le pays
+Feedback to referring facility,Rétroaction à l’établissement d’aiguillage
+Histopathology test date,Date du test d’histopathologie
+History of TB treatment,Antécédents de traitement de la tuberculose
+Home based options,Options à domicile
+Hypertension,Hypertension
+Hypertension Medication,Médicaments contre l’hypertension
+INH Mono Resistance Regimen,INH Mono Resistance Regimen
+Line Probe Assay Result,Résultat du test de la sonde de ligne
+Liver disease,Maladie du foie
+Liver disease medication,Médicament contre les maladies du foie
+Management remarks of pneumoconiosis,Remarques de gestion de la pneumoconiose
+Mental Illness,Maladie mentale
+Mental illness medication,Médicaments contre la maladie mentale
+New residential address,Nouvelle adresse résidentielle
+Other Illness,Autre maladie
+Other illness medication,Autres médicaments contre la maladie
+Other opinion of histopathology report,Autre opinion de rapport d’histopathologie
+Other substance,Autre substance
+Patient BMI,IMC du patient
+Patient Height,Taille du patient
+Patient weight,Poids du patient
+Specify other physical finding(s) if any,"Précisez les autres constatations physiques, le cas échéant."
+Reason for referral,Raison du renvoi
+Receiving facility,Établissement récepteur
+Referral reporting date,Date de déclaration de l’indication
+Regimen,Regimen
+Renal insufficiency,Insuffisance rénale
+Renal insufficiency medication,Médicament contre l’insuffisance rénale
+Results consistent with TB,Résultats conformes à la TB
+Results consistent with pneumoconiosis,Résultats compatibles avec la pneumoconiose
+Results consistent with silico - tuberculosis,Résultats compatibles avec silico - tuberculose
+Site of Disease,Site de la maladie
+Smear Test Laboratory Number,Numéro de laboratoire du test de frottis
+Smear Result,Résultat du frottis
+Smear microscopy,Microscopie à frottis
+Specify INH Mono Resistance regimen,Préciser le régime de résistance INH Mono
+Specify illness,Préciser la maladie
+Specify other substance use,Préciser la consommation d’autres substances
+Specify regimen if Longer individualized regimens,Préciser le régime si les régimes individualisés plus longs
+TB Diagnosis Type,Type de diagnostic de tuberculose
+Tobacco,Tabac
+Treatment Outcome,Résultat du traitement
+Treatment Phase,Phase de traitement
+Treatment Start Date,Date de début du traitement
+Type of disease,Type de maladie
+Type of referral,Type de recommandation
+Urgency of Referral,Urgence du renvoi
+Urine LAM result,Résultat du GZL sur l’urine
+Urine LAM test date,Date du test d’urine LAM
+Was Histopathology performed,L’histopathologie a-t-elle été effectuée?
+Was Urine LAM test performed?,Le test d’urine LAM a-t-il été effectué?
+name,nom
+Allergies,Allergies
+Apical Cavitation,Cavitation apicale
+Asthma,Asthme
+Bacteriological confirmed,Bactériologique confirmée
+Birth Certificate,Certificat de naissance
+Cardiomegaly,Cardiomégalie
+Clinical diagnosis,Diagnostic clinique
+Community Worker,Travailleur communautaire
+Contaminated,Contaminé
+Continuation,Continuation
+Cross Border,Transfrontalier
+Cured,Guéri
+Deceased,Défunt
+Defaulted treatment,Traitement par défaut
+Divorced,Divorcé
+Driver's License,Permis de conduire
+Emergency,Urgence
+Employment ID,ID d’emploi
+Epilepsy,Épilepsie
+Ex - Miner,Ex. : mineur
+Ex-Miner,ex-joueur
+Ex-Miners,Ex-Miners
+Exposure to Silica dust,Exposition à la poussière de silice
+Facility,Centre 
+Failed treatment,Échec du traitement
+Family Member,Membre de la famille
+Family member of miner/Ex-miner,Membre de la famille du mineur/ex-mineur
+Family of miners/ex-miners,Famille de mineurs/ex-mineurs
+Female,Femelle
+Formal mining,Exploitation minière officielle
+Further management and special care,Gestion ultérieure et soins particuliers
+Health Care Worker,Travailleur de la santé
+Hillar Lymphademopathy,Lymphadémopathie de Hillar
+Home based,Basé à domicile
+Hypertension,Hypertension
+INH Mono Resistant,INH Mono Resistant
+In country,Dans le pays
+Indeterminant,Indeterminant
+Indeterminate,Indéterminé
+Intensive,Intensif
+Kingdom of Eswathi,Royaume d’Eswathi
+Kingdom of Lesotho,Royaume du Lesotho
+Liver Disease,Maladie du foie
+Living in mining community,Vivre dans une collectivité minière
+Long Treatment,Traitement à long terme
+Longer Individualized Regimen(s),Régime personnalisé plus long
+Lost to follow up,Manque de suivi
+Madagascar,Madagascar
+Male,Male
+Married,Marié
+Mental Illness,Maladie mentale
+Milliary,Milliaire
+Miner,Mineur
+Miners,Mineurs
+National Identification,Identification nationale
+Negative,Négatif
+New patient,Nouveau patient
+No,Non
+Normal,Normal
+Not evaluated,Non évalué
+Other,Autre
+Other Illness,Autre maladie
+Other Previously Treated,Autres traitements antérieurs
+Other(s),Autres
+Others,Autres
+Paranchymal Consolidation,Consolidation paranchymateuse
+Parent,Parent
+Passport,Passeport
+Patient request,Demande du patient
+Plueral Effusion,Plueral Effusion
+Pneumoconiosis,Pneumoconiose
+Positive,Positif
+Presumptive,Présomptif
+Prisoner/remandee,Détenu/détenu en détention provisoire
+Refugee/immigrant,Réfugié/immigrant
+Relapse,Rechute
+Relative,Relatif
+Resistant,Résistant
+Returning resident,Résident de retour
+Routine,Routine
+Scanty,Peu nombreux
+Sensitive,Sensible
+Sex Partner,Partenaire sexuel
+Short treatment,Traitement court
+Sibling,Frère
+Silico -Tuberculosis,Silico-tuberculose
+Silicosis,Silicosis
+Single,Célibataire
+Slumdweller,Habitant des bidonvilles
+Spouse,Conjoint
+Treatment after failure,Traitement après échec
+Treatment after loss to follow up,Traitement après perte à suivre
+Treatment completed,Traitement terminé
+Tuberculosis,Tuberculose
+Unclassified,Non classifié
+Unknown,Inconnu
+Voter Card,Carte d’électeur
+Widowed,Veuf
+Yes,Oui
+Authentication Particulars,Détails d'authentification
+Demographic,Démographique
+Medical History,Antécédents médicaux
+Next of Kin/ Alternative Contact Information,Plus proche parent/ Autres coordonnées
+Occupation/Employment Information,Renseignements sur la profession ou l’emploi
+Personal Information,Renseignements personnels
